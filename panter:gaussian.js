@@ -1,0 +1,1 @@
+gaussian = Npm.require("gaussian");
